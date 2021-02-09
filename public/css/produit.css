@@ -1,0 +1,4 @@
+#dataTableProduis_wrapper>.mdl-grid{
+    display: flex;
+    justify-content: space-between;
+}
